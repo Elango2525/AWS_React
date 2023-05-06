@@ -1,0 +1,515 @@
+.mac-book-pro-16-5 {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    font-family: Elsie;
+    font-size: 2.75rem;
+    font-weight: 400;
+    line-height: 51px;
+    display: flex;
+    
+  }
+  
+  
+  
+  .untitled-design-1 {
+    height: 100%;
+    background: linear-gradient(135deg, rgba(34,193,195,1) 0%,     rgba(253,187,45,1) 100%);
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-bottom: 38px;
+    display: flex;
+  }
+  
+  .rectangle-53 {
+    color: #fff;
+    height: 170px;
+    width: 100%;
+    background-color: #208110;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 5px;
+    font-family: Federant;
+    font-size: 2.5rem;
+    line-height: 49px;
+    display: flex;
+  }
+  
+  .premium-organic-prod {
+    background-image: url("icon.png");
+    width: 194px;
+    height: 171px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .flex-container {
+    height: 65%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 19px;
+    display: flex;
+  }
+  
+  .e-compliant-records {
+    text-transform: capitalize;
+    margin-left: 24px;
+    
+    padding-right: 70px;
+  }
+  
+  .standard-organisatio {
+    text-transform: capitalize;
+    padding-right: 10%;
+    padding-bottom: 40%;
+  }
+  
+  
+  
+  .flex-container-1 {
+    height: 75%;
+    flex-direction: column;
+    flex-basis: 47%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 13px;
+    margin-left: 28px;
+    display: flex;
+  }
+  
+  .flex-container-2 {
+    width: 95%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 4px;
+    font-size: 2.188rem;
+    line-height: 43px;
+    display: flex;
+  }
+  
+  .bxhome-alt-2 {
+    width: 24px;
+    height: 27px;
+    object-fit: cover;
+    margin-top: 1px;
+  }
+  
+  .home {
+    text-transform: capitalize;
+    margin-right: 2px;
+    padding-left: 75px;
+    
+  }
+  .home:hover{
+    padding:2px 2px;
+    background-color: rgb(35, 255, 35);
+    border-color: #c8c8ff;
+  }
+  .about:hover{
+    padding:2px 2px;
+    background-color: rgb(35, 255, 35);
+    border-color: #c8c8ff;
+  }
+  .contact-us:hover{
+    padding:2px 2px;
+    background-color: rgb(35, 255, 35);
+    border-color: #c8c8ff;
+  }
+  .helpf-aq:hover{
+    padding:2px 2px;
+    background-color: rgb(35, 255, 35);
+    border-color: #c8c8ff;
+  }
+  
+  .vector-2 {
+    width: 26px;
+    height: 30px;
+    object-fit: cover;
+    margin-left: 45px;
+  }
+  
+  .contact-us {
+    
+    padding-left: 7%;
+  }
+  
+  .flat-color-iconsabou {
+    width: 48px;
+    height: 42px;
+    object-fit: cover;
+    margin-left: 33px;
+  }
+  
+  .about {
+    text-transform: capitalize;
+    
+  }
+  
+  .carbonhelp {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    margin-bottom: 2px;
+    margin-left: 15px;
+  }
+  
+  .helpf-aq {
+    text-transform: capitalize;
+    align-self: flex-end;
+    margin-bottom: 1px;
+  }
+  
+  .flex-container-3 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-end;
+    align-items: center;
+    margin-left: 22px;
+    display: flex;
+  }
+  
+  /*.vector-3 {
+    width: 18px;
+    height: 27px;
+    object-fit: cover;
+    margin-top: 1px;
+  }*/
+  
+  /*.announcement {
+    text-transform: capitalize;
+    margin-bottom: 1px;
+    font-size: 2.188rem;
+    line-height: 43px;
+   
+    padding-right: 5%;
+  }*/
+  
+  /*.vector-1 {
+    width: 41px;
+    height: 49px;
+    object-fit: cover;
+    margin-left: 13px;
+  }*/
+  
+  /*.num-1800-435-4320 {
+    text-transform: capitalize;
+    margin-bottom: 1px;
+    font-size: 2.188rem;
+    line-height: 43px;
+    
+    padding-left: 20%;
+    
+    
+  }*/
+  
+  /*.vector {
+    width: 39px;
+    height: 24px;
+    object-fit: cover;
+    border: 5px solid #f8f8f8;
+    margin-left: 17px;
+  }*/
+  
+  .menu {
+    text-transform: capitalize;
+    margin-top: 2px;
+    padding-left: 520px;
+    padding-top: 21px;
+   
+  }
+  
+  
+  .rectangle-78 {
+    width: 49px;
+    height: 7px;
+    object-fit: cover;
+    margin-bottom: 2px;
+    margin-left: 64px;
+  }
+  
+  .my-complaints {
+    text-transform: capitalize;
+    color:  rgba(50, 36, 36, 0.881);
+    margin-top: 1px;
+    margin-bottom: 33px;
+    margin-left: 114px;
+    font-family: IM FELL French Canon SC;
+    font-size: 4rem;
+    line-height: 75px;
+    text-decoration: underline;
+  }
+  
+  .flex-container-4 {
+    width: 25%;
+    flex-direction: column;
+    flex-basis: 9%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-top: 5px;
+    margin-left: 171px;
+    font-size: 3.125rem;
+    line-height: 58px;
+    display: flex;
+  }
+  
+  .rectangle-1 {
+    width: 398px;
+    height: 103px;
+    object-fit: cover;
+    margin-bottom: -103px;
+  }
+  
+  .cat-absolute-container {
+    width: 100%;
+    z-index: 1;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    padding-right: 16px;
+    display: flex;
+  }
+  
+  .cat-absolute-container-1, .cat-absolute-container-2, .cat-absolute-container-3, .cat-absolute-container-4 {
+    width: 100%;
+    z-index: 1;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: -103px;
+    display: flex;
+  }
+  
+  .cat-absolute-container-5 {
+    width: 100%;
+    z-index: 1;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -103px;
+    padding-left: 1px;
+    display: flex;
+  }
+  
+  .new-complaint {
+    text-transform: capitalize;
+    margin-left: 1px;
+  }
+  
+  .rectangle-82, .rectangle-81, .rectangle-80, .rectangle-79, .rectangle-2 {
+    width: 382px;
+    height: 103px;
+    object-fit: cover;
+  }
+  
+  .flex-container-5 {
+    width: 25%;
+    flex-direction: column;
+    flex-basis: 9%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: 2px;
+    margin-left: 171px;
+    display: flex;
+  }
+  
+  .rectangle-4 {
+    width: 382px;
+    height: 103px;
+    object-fit: cover;
+    margin-bottom: -103px;
+  }
+  
+  .cat-absolute-container-6 {
+    width: 100%;
+    z-index: 1;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    display: flex;
+  }
+  
+  .cat-absolute-container-7, .cat-absolute-container-8 {
+    width: 100%;
+    z-index: 1;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: stretch;
+    margin-bottom: -103px;
+    display: flex;
+  }
+  
+  .cat-absolute-container-9 {
+    color: #100f0f;
+    width: 30%;
+  
+    border-radius: 50px;
+    flex-direction: row;
+    flex-basis: 10%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 154px;
+    padding-top: 4px;
+    padding-left: 3px;
+    display: flex;
+  }
+  
+  
+  
+  .rectangle-85, .rectangle-84, .rectangle-83 {
+    width: 398px;
+    height: 103px;
+    object-fit: cover;
+  }
+  
+  .rectangle-110 {
+    color: #100f0f;
+    width: 30%;
+  
+    border-radius: 50px;
+    flex-direction: row;
+    flex-basis: 10%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 154px;
+    padding-top: 4px;
+    padding-left: 3px;
+    display: flex;
+    width: 450px;
+  }
+  .percent{
+    padding-top: 9px;
+    
+  }
+  h1{
+    font-style: initial;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+  }
+  h4{
+    animation:blinker 1s linear infinite;
+    color: blueviolet;
+    font-size: 20px;
+  
+}
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
+a{
+    text-decoration: none;
+    color: rgb(12, 28, 207);
+}
+  
+  .view-complaint-statu {
+    text-transform: capitalize;
+    margin-top: 2px;
+    margin-left: 1px;
+    
+  }
+ .sty:hover
+ {
+    background-color: rgb(121, 121, 16);
+ }
+ 
+  .vector-4 {
+    width: 105px;
+    height: 98px;
+    object-fit: cover;
+    margin-top: 1px;
+    margin-left: 80px;
+  }
+  
+  .this-site-is-designe {
+    align-self: center;
+    font-family: Inter;
+    font-size: 1.25rem;
+    line-height: 24px;
+  }
+  .sty{
+  width: 300px;  
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+  text-decoration: none;
+  
+  }
+  .sty1{
+    width: 100px;  
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 10px 40px;
+    border-radius: 7px;
+    margin: 10px 0px;
+    cursor: pointer;
+  
+  
+    }
+    .sty2{
+      width: 150px;  
+      background-color: green;
+      color: white;
+      font-size: 20px;
+      padding: 10px 40px;
+      border-radius: 7px;
+      margin: 10px 0px;
+      cursor: pointer;
+    
+    
+      }
+  
+    .rectangle-111 {
+      color: #100f0f;
+      width: 30%;
+      border-radius: 50px;
+      flex-direction: row;
+      flex-basis: 10%;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 10px;
+      margin-left: 154px;
+      padding-top: 4px;
+      padding-left: 3px;
+      display: flex;
+      width: 450px;
+    }
+    .rectangle-112 {
+      color: #100f0f;
+      width: 30%;
+      border-radius: 50px;
+      flex-direction: row;
+      flex-basis: 10%;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 10px;
+      margin-left: 154px;
+      padding-top: 4px;
+      padding-left: 3px;
+      display: flex;
+      width: 450px;
+    }
+    
+  

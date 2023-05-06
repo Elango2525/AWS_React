@@ -1,0 +1,176 @@
+.mac-book-pro-16-4 {
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    font-family: Federant;
+    font-size: 2.5rem;
+    font-weight: 400;
+    line-height: 49px;
+    display: flex;
+  }
+  
+  .cat-absolute-container {
+    width: 100%;
+    z-index: 1;
+    flex-direction: column;
+    flex-basis: 100%;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: -1117px;
+    padding-bottom: 59px;
+    display: flex;
+  }
+  
+  .rectangle-53 {
+    width: 100%;
+    background-color: #208110;
+    flex-direction: row;
+    flex-basis: 22%;
+    justify-content: space-evenly;
+    align-items: stretch;
+    padding-top: 29px;
+    padding-bottom: 1px;
+    padding-right: 80px;
+    font-size: 2.188rem;
+    line-height: 43px;
+    display: flex;
+  }
+  
+  .flex-container {
+    height: 80%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: center;
+    align-items: stretch;
+    margin-bottom: 3px;
+    margin-right: 14px;
+    font-size: 2.5rem;
+    line-height: 49px;
+    display: flex;
+  }
+  
+  .e-compliant-records {
+    text-transform: capitalize;
+    margin-left: 11px;
+  }
+  
+  .standard-organisatio {
+    text-transform: capitalize;
+  }
+  
+  .home {
+    text-transform: capitalize;
+    margin-top: 3px;
+    margin-left: 86px;
+  }
+  
+  .contact-us {
+    text-transform: capitalize;
+    margin-top: 3px;
+  }
+  
+  .flex-container-1 {
+    height: 45%;
+    flex-direction: column;
+    flex-basis: 17%;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 1px;
+    line-height: 49px;
+    display: flex;
+  }
+  
+  .flex-container-2 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    align-items: stretch;
+    margin-right: 15px;
+    line-height: 43px;
+    display: flex;
+  }
+  
+  .about {
+    text-transform: capitalize;
+    margin-top: 2px;
+  }
+  
+  .helpf-aq {
+    text-transform: capitalize;
+  }
+  
+  .num-1800-435-4320 {
+    text-transform: capitalize;
+    font-size: 2.5rem;
+  }
+  
+  .flex-container-3 {
+    height: 50%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3px;
+    display: flex;
+  }
+  
+  .announcement {
+    text-transform: capitalize;
+  }
+  
+  .menu {
+    text-transform: capitalize;
+    margin-left: 30px;
+    font-size: 2.5rem;
+    line-height: 49px;
+  }
+  
+  .add-your-locatio-her {
+    text-transform: capitalize;
+    margin-bottom: 105px;
+    font-size: 3.75rem;
+    line-height: 74px;
+  }
+  
+  .use-my-current-locat {
+    text-transform: capitalize;
+    margin-top: 21px;
+  }
+  
+  .or {
+    text-transform: capitalize;
+    color: #000;
+    font-size: 2.188rem;
+    line-height: 43px;
+  }
+  
+  .customize-address {
+    text-transform: capitalize;
+    margin-bottom: 39px;
+  }
+  
+  .this-site-is-designe {
+    color: #000;
+    margin-top: 100px;
+    font-family: Inter;
+    font-size: 1.25rem;
+    line-height: 24px;
+  }
+  
+  .image-6 {
+    width: 1782px;
+    height: 1117px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .rect{
+    margin-top: 50px;
+    background-color: rgb(255, 38, 0);
+    border-radius: 25px;
+  }

@@ -1,0 +1,71 @@
+*{
+    font-family: monospace;
+}
+body{
+    background-image: url("https://wallpaperaccess.com/full/824696.jpg");
+    height: 30vh;
+    width: 100%;
+    background-size: cover;
+}
+h2
+{
+    font-size: 25px;
+}
+.container{
+     margin-left: 9%;
+    font-size: 20px;
+    background-color: rgb(157, 255, 157);
+    width: 49%;
+    padding: 2%;
+    margin-left: 30%; 
+    margin-top: 7%;
+    height: 550px;
+    width: 500px;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+}
+label{
+    margin-left: 1px;
+    position: relative;
+}
+button{
+    padding: 15px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: beige;
+    background-color: rgb(151, 255, 53);
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    transform: scale(1.05);
+    color: black;
+    background-color: rgb(201, 201, 201);
+}
+h1{
+    margin-left: 10%;
+    font-weight: 30px;
+}
+input[type=text]{
+    padding: 0.7em;
+    font-size: 10px;
+    border-radius: 25px;
+    width: 200px;
+}
+input[type=password]{
+    padding: 0.7em;
+    font-size: 10px;
+    border-radius: 25px;
+    width: 200px;
+}
+input[type=email]{
+    padding: 0.7em;
+    margin-left: 50px;
+    font-size: 10px;
+    border-radius: 25px;
+    width: 200px;
+}
